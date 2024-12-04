@@ -4,3 +4,5 @@ elasticsearch-8.15.2
 *.html
 *.pdf
 *.output
+data
+*.csv
